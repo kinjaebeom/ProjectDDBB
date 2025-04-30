@@ -1,4 +1,4 @@
-![뛰뛰빵빵(DDBB)진행사항4](https://github.com/user-attachments/assets/152d0a70-aee7-4881-929d-ce7db02a10a7)![뛰뛰빵빵(DDBB)진행사항3](https://github.com/user-attachments/assets/fceb6d17-1246-409e-8463-18955245df7d)# 초보 개발자의 팀 프로젝트를 도와주는 Mini Github Web
+# 초보 개발자의 팀 프로젝트를 도와주는 Mini Github Web
 <h2 style="font-size: 28px; font-weight: bold;">📝 실제 github에서 영감을 받아 진행하게 된 프로젝트</h2>
 <h2 style="font-size: 28px; font-weight: bold;">📝 팀 프로젝트 웹 사이트로 코드비교와 현황 조회 뿐만 아니라 코멘트와 팀원들끼리 소통할 수 있는 게시판과 커뮤니티를 형성</h2>
 <h2 style="font-size: 28px; font-weight: bold;">📝 방장 제도를 통해 팀원을 초대하거나 강퇴 할 수있는 권한을 부여</h2>
